@@ -1,4 +1,4 @@
-prints a rectangle (grid) of a chosen symbol in the consolepackage com.example;
+package com.example;
 import javax.swing.JOptionPane;
 import java.util.Random;
 import java.util.Scanner;
